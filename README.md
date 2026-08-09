@@ -72,6 +72,10 @@ Grow journal data is stored in your browser's `localStorage` under the key `hydr
 - Zero external dependencies (one optional Google Fonts import)
 
 
+## Built With AI, Verified By Humans
+
+This tool was written with AI assistance (Anthropic Claude) and reviewed, tested, and validated by a human throughout every iteration.
+
 ## Contributing
 
 This is a personal project, but suggestions and bug reports are welcome via Issues. If you're a hydroponic grower and something doesn't match your real-world experience, I especially want to hear about it — this app is grounded in practical growing, not textbook idealism.
